@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mvp Travel App</string>
+    <string name="tb_title">Tour And Travels</string>
+    <string name="tv_find_the_best_tour">Find The Best Tour</string>
+    <string name="tv_country">Country</string>
+    <string name="tv_country_name">Thailand</string>
+    <string name="tv_popular_tour">Popular Tour</string>
+    <string name="tv_popular_tours_name">Thailand</string>
+    <string name="tv_tour_description">10 nights for two/all inclusive</string>
+    <string name="tv_tour_price">$243.00</string>
+    <string name="tv_rating">4.5</string>
+    <string name="Detail_tv_place_name">Sea Flower Resort</string>
+    <string name="Detail_free_wifi">Free wifi</string>
+    <string name="hotel_out_tv_booking">Booking</string>
+    <string name="hoteloutrating">8.0/10</string>
+    <string name="hotel_out_tv_reviews">Based on 30 reviews</string>
+    <string name="hotel_out">Hotel out</string>
+    <string name="description">Sea Flower Resort is located in Ko Chang, 19 km form Klong San temple and 20 km from Ao Sapparot Pier. It offer a garden, free wifi and free private parking.</string>
+</resources>
